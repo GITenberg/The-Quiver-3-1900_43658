@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43658#The-Quiver-3-1900
 gutenberg_issued: '2013-09-06'
 gutenberg_type: Text
 identifiers:
